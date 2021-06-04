@@ -1,0 +1,9 @@
+Flip=$((Random%2))
+if [ $randomnumber -eq1 ]
+then
+   echo "head"
+else
+   echo "tail"
+fi
+
+       
